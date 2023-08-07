@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Hons. (First Class) in Economics, Cambridge University, 1997
+* M.Sc. in Economics (Distinction), London School of Economics, 1998
+* Ph.D in Economics, Birkbeck College, University of London, 2020
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016--present: Senior Policy and Research Advisor, Monetary Analysis Directorate, Bank of England
+  * Provide research and policy advice with a focus on monetary policy strategy.
+* 2015--2016: Visiting research, University College London
+  * Produced research focused on quantitative easing and interest-bearing money.
+* 2013--2015: Senior Manager, Monetary Strategy Team, Monetary Assessment and Strategy Division, Bank of England
+  * Led the monetary strategy team, producing research and analysis of monetary strategy questions.
+* 2012--2013: Advisor, International Economic Analysis Division, Bank of England
+  * Conducted research on open economy issues.
+* 2009--2012: Senior Manager, Model Development Team, Conjunctural Assessment and Projections Division, Bank of England
+  * Led the team that developed the Bank of England forecasting platform.
+* 2005--2009: Advisor, Monetary Assessment and Strategy Division, Bank of England
+  * Produced research and analysis on monetary policy strategy issues.
+* 2001--2005: Senior Economist, Conjunctural Assessment and Projections Division, Bank of England
+  * Member of the team that developed the Bank of England Quarterly Model.
+* 1998--2001: Economist, Monetary Assessment and Strategy Division, Bank of England
+  * Produced policy analysis and research focused on the exchange rate.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +41,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Working papers
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.workingpapers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
