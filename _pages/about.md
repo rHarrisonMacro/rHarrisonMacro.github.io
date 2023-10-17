@@ -24,5 +24,6 @@ rxhresearch@gmail.com
 
 Latest
 ======
+* New publication: available [here](/publications/2023-09-19-brexit-vote)
 * New personal website launched at https://rHarrisonMacro.github.io
 
