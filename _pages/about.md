@@ -24,6 +24,7 @@ rxhresearch@gmail.com
 
 Latest
 ======
+* New working paper "Optimal quantitative easing and tightening" (8 March 2024): available [here](/workingpapers/2024-03-08-optimal-QE-QT)
 * New publication: available [here](/publications/2023-09-19-brexit-vote)
 * New personal website launched at https://rHarrisonMacro.github.io
 
