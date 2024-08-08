@@ -18,13 +18,12 @@ Contact
 ======
 Bank of England, Threadneedle Street, London, EC2R 8AH
 
-richard.harrison@bankofengland.co.uk
+richard.harrison[at]bankofengland.co.uk
 
-rxhresearch@gmail.com
+rxhresearch[at]gmail.com
 
 Latest
 ======
+* New publication: "The central bank balance sheet as a policy tool: the Bank of England's experience" (6 July 2024) available [here](/publications/2023-09-19-brexit-vote)
 * New working paper "Optimal quantitative easing and tightening" (8 March 2024): available [here](/workingpapers/2024-03-08-optimal-QE-QT)
-* New publication: available [here](/publications/2023-09-19-brexit-vote)
-* New personal website launched at https://rHarrisonMacro.github.io
 

@@ -6,7 +6,7 @@ excerpt: '(with Ben Broadbent, Federico Di Pace, Thomas Drechsel and Silvana Ten
 
 
 The U.K. economy experienced significant macroeconomic adjustments following the 2016 referendum on its withdrawal from the European Union. To understand these adjustments, this paper presents empirical facts using novel U.K. macroeconomic data and estimates a small open economy model with tradable and non-tradable sectors. We demonstrate that the referendum outcome can be interpreted as news about a future decline in productivity growth in the tradable sector. An immediate fall in the relative price of non-tradable goods induces a temporary “sweet spot” for tradable producers. Economic activity in the tradable sector expands in the short run, while the non-tradable sector contracts. Aggregate output, consumption, and investment growth decelerate.'
-date: 2023-09-19
+date: 2024-07-01
 venue: 'The Review of Economic Studies'
 paperurl: 'https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad086/7276540'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
