@@ -1,5 +1,5 @@
 ---
-title: "The central bank balance sheet as a policy tool: the Bank of England's experience"
+title: "The central bank balance sheet as a policy tool: lessons from the Bank of England's experience"
 collection: publications
 permalink: /publications/2024-07-06-central-bank
 excerpt: '(with Andrew Bailey, Jonathan Bridges, Josh Jones and Aakash Mankodi)
